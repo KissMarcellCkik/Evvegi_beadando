@@ -50,7 +50,6 @@ h1{
 .feher{
     color: white;
 }
-<<<<<<< HEAD
 #Aresz{
     background-image: url('aresz.png');
     color: greenyellow;
@@ -61,10 +60,8 @@ h1{
 #felsoirasfeher2{
     color: greenyellow;
     text-align: center;
-=======
 #zeusz2{
     height: 500px;
     width: 500px;
     border: 10px solid black;
->>>>>>> 661a24d31d57ba8d06130c28291ef110839cd4d8
 }
