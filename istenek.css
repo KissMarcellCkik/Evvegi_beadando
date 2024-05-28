@@ -1,0 +1,52 @@
+.felsoiras{
+    text-align: center;
+}
+#vastag{
+    font-weight: bolder;
+}
+#kezdolap{
+    font-size: large;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color:black;
+    background-color: blanchedalmond;
+}
+td{
+    width: 50%;
+}
+#table1{
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+li{
+    margin: auto;
+    display: flex;
+    padding: 0;
+    text-align: center; 
+}
+h1{
+    color: black;
+}
+#table2{
+    border: 1px solid black;
+    height: auto;
+}
+.td1,.th1{
+    border: 1px solid black;
+    width: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#Zeusz{
+    background-image: url('zeus2.jpg');
+    color: white;
+}
+#felsoirasfeher{
+    color: white;
+    text-align: center;
+}
+.feher{
+    color: white;
+}
