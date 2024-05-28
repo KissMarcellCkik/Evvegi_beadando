@@ -50,3 +50,14 @@ h1{
 .feher{
     color: white;
 }
+#Aresz{
+    background-image: url('aresz.png');
+    color: greenyellow;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#felsoirasfeher2{
+    color: greenyellow;
+    text-align: center;
+}
